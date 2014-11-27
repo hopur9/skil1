@@ -1,0 +1,12 @@
+#ifndef SERVICE_H
+#define SERVICE_H
+
+#include @person.h
+class service
+{
+public:
+    service();
+    void add(Person p);
+};
+
+#endif // SERVICE_H
